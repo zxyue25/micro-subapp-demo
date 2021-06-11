@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+src/router/temp.router.js
 
 # local env files
 .env.local

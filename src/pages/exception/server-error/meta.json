@@ -1,0 +1,9 @@
+{
+    "index": 3,
+    "showOnMenu": true,
+    "hideOnBreadcrumb": false,
+    "menu": {
+        "title": "500错误页",
+        "icon": "el-icon-menu"
+    }
+}

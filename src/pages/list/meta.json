@@ -1,0 +1,9 @@
+{
+    "index": 2,
+    "showOnMenu": true,
+    "hideOnBreadcrumb": false,
+    "menu": {
+        "title": "列表",
+        "icon": "el-icon-menu"
+    }
+}
